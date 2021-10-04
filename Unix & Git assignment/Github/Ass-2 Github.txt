@@ -1,0 +1,31 @@
+
+
+One of the best introduction to Github is through this small walk-through course - First Day on Github (Link attached). It will walk you through using Github, learning Markdown (a text formatting syntax) etc.
+
+Please do this small course thoroughly and write a quick summary of what you learned there, in a .txt file.
+Also, share what you have learned on LinkedIn.
+Ans :- 
+
+Yesterday I learned about Github, and why it is used mostly. I have shared below my Learnings. 
+What is GitHub? 
+GitHub is a code hosting platform for collaboration and version control systems. 
+GitHub helps developers to work together on projects to build software, or to contribute to open source. 
+
+Github repository : create & store relevant project documents. 
+
+GitHub pages : It allows serving a static site from a repository. 
+
+Issues : to track tasks, enhancements, & bugs in a project. 
+
+Creating a branch :-  it takes an original code & creates an exact copy of it, after submitting any changes , if it is quality of code, then code is merged into the original code base. 
+
+Commit a file : it creates a snapshot I. e an individual change to file. Hence it allows you to keep record of what changes were made by who and when. 
+
+Pull request : it helps to discuss & review the potential changes with collaborators and add follow-ups before any changes are merged by user into the base branch. 
+
+Markdown : it helps to display the content in a very easy to read frame I.e formatting a word as bold, Italic, adding images, and creating lists. 
+
+Push request : It requests a target repository requesting the user to push changes .
+
+ Linkedin post Link : https://www.linkedin.com/posts/rupak-mandal-b6142b1bb_github-learning-coding-activity-6849737787554562048-ooW3 
+

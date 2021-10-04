@@ -1,0 +1,12 @@
+Q. Read about different tags and
+list out any 5 tags that you find interesting.
+
+
+https://www.w3schools.com/tags/
+Ans :-
+
+1. <!DOCTYPE> 	
+2. <address>
+3.<area>
+4. <audio>
+5.<div>

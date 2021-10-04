@@ -1,0 +1,81 @@
+Go to the Documents directory in your machine and run a command to find the path of that directory, paste the
+output.
+List all the files and folders in the Documents directory in long format and paste first 2 lines.
+What's the command to list all files and folders in a directory in the long format but they should also be sorted by their size, in decreasing order? Write the command here.
+Do the following operations on your computer using the terminal.
+Go to Documents directory
+print all the files and folders
+make a new directory called my-folder
+go inside my-folder
+make a new file called commands.txt
+write all the commands that you learned so far, via the terminal based editor nano along with their explanation and save.
+create a new folder called dummy in my-folder directory itself.
+navigate to dummy, and create a new file called hello.txt.
+write your name in hello.txt.
+create a new folder called practice inside dummy itself.
+navigate to practice and create 2 folders called source and destination
+navigate to source and create a new file called index.html.
+write hello world inside index.html and save
+copy index.html into destination folder.
+move out to the my-folder directory
+create a new file called current-file-structure.txt
+write the layout of current file structure of the entire my-folder folder in this file i.e. current-file-structure.txt.
+
+After doing the above operations, answer this question -
+Copy the content of current-file-structure.txt and paste it here.
+
+
+
+
+Go to the Documents directory in your machine and run a command to find the path of that directory, paste the
+output.
+Ans :/c/Users/Dell/desktop/react
+
+
+List all the files and folders in the Documents directory in long format and paste first 2 lines.
+ Ans : -rw-r--r-- 1 Dell 197121  0 Sep 28 12:40 Rupakm.txt
+-rw-r--r-- 1 Dell 197121  0 Sep 27 16:08 dev
+
+
+What's the command to list all files and folders in a directory in the long format but they should also be sorted by their size, in decreasing order? Write the command here.
+Do the following operations on your computer using the terminal.
+Ans : $ ls -lS
+
+Go to Documents directory
+print all the files and folders
+make a new directory called my-folder
+go inside my-folder
+make a new file called commands.txt
+write all the commands that you learned so far, via the terminal based editor nano along with their explanation and save.
+Ans: Nano filename to edit or update , Ctrl + x to save , y for yes , N for No. 
+
+
+
+
+
+
+create a new folder called dummy in my-folder directory itself.
+navigate to dummy, and create a new file called hello.txt.
+write your name in hello.txt.
+
+
+create a new folder called practice inside dummy itself.
+
+navigate to practice and create 2 folders called source and destination
+
+navigate to source and create a new file called index.html.
+
+write hello world inside index.html and save
+copy index.html into destination folder..
+
+move out to the my-folder directory
+create a new file called current-file-structure.txt
+write the layout of current file structure of the entire my-folder folder in this file i.e. current-file-structure.txt.
+
+After doing the above operations, answer this question -
+Copy the content of current-file-structure.txt and paste it here.
+$ ls
+comands.txt  current-file-structure.txt  dummy/  index.html
+
+
+

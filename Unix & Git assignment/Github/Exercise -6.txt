@@ -1,0 +1,5 @@
+Now it's time to do your first small project. We will use Git and Github to make a personal 'hello world' website.
+One of the most important skills as a software developer you will need is the ability to read documentations on your own and figure things out. Here we will start that.
+Go through this documentation page - Github Pages (Linked below), follow the documentation and make your first website live. Github Pages is a feature by Github which lets you host your static websites.
+Once you are done, please copy and share the URL.
+ans : https://rupakmandal522.github.io/rupak.io/

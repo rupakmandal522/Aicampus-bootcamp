@@ -1,0 +1,23 @@
+Q. What are the various commands you used in this exercise and what do each one of them do?
+Ans : 
+$Mkdir directoryname  
+This commands helps us to make a new directory in repo.
+ 
+cd for change directory
+
+ $git init 
+it helps to initilize empty git repository
+
+$touch about-me.txt : to make a new filer inside repo 
+
+$ git status
+To understand repo status where it has commits or not 
+
+$ nano about-me.txt : To add line or make some changes in new line.
+
+$ git add : It add all file in the directory 
+
+$git log : It helps us to commit the head.
+
+
+$ git commit -m " add new stuff" to pass a message.

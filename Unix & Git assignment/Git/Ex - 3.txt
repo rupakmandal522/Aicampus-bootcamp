@@ -1,0 +1,14 @@
+Please write your understanding of Git in as detailed way as
+possible. It should cover -
+ 
+
+What is Git and why do we need it?
+ Ans:- Git is a version control system which helps developer to track the change in the file, fixed bug , for easily sharing more effectively.
+What are commits?
+Gits make a version snapshot , each snapshot are called commit..
+
+How does Git track changes?
+For every tracked file, Git records information such as its size, creation time and last modification time in a file known as the index.
+
+What are the various stages in Git?
+The various stages in Git are working tree , staging area  And commits stage.

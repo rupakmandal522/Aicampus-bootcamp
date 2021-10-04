@@ -1,0 +1,3 @@
+Q. Why do we need branching and how do you merge two branches?
+ans :- we need branching for everyday development process (software  development), to fix a bug , to sharing a copy of project to do task more effectively.  
+At frist we have to switch to master branch  after that we can use command called $git merge (branchname).

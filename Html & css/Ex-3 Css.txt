@@ -1,0 +1,27 @@
+How do we target any element and style it in CSS? 
+Ans :  By using selector , and style it
+
+What are the types of selectors? And which one is more specific?
+
+There are four types of selectors : Type, ID, Class and Descendant selectors.
+Id Selctors is more speific.
+
+How can we select any element with a class name?
+
+.className{
+}
+
+What are the various ways to reference CSS in HTML? And which one is the best?
+1. Inline 
+2. Internal 
+3. External  
+ External reference is best .
+
+
+Which tag is used to reference external stylesheet?
+
+<style>
+<link>
+<script>
+<a>
+Ans : Link 
