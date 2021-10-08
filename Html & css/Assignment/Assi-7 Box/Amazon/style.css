@@ -87,6 +87,9 @@ p{
 footer {
     background-color: rgb(251, 152, 198);
     padding: 25px;
+    margin: 30px auto;
+    border: 10px green 10px blue 10px maroon 10px yellowgreen double ;
+
 }
 
  footer a{
