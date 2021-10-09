@@ -1,0 +1,127 @@
+body{
+    background-color:  #FDE68A;
+
+}
+
+header{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.div1{
+    width: 100px;
+    height: 100px;
+    margin: 100px auto;
+    background-color: coral;
+    border: 15px solid crimson;
+    outline: 20px solid cyan;
+    box-shadow: 0 0 0 15px blue, 0 0 0 50px blue;
+
+}
+.div2{
+    text-align: center;
+}
+
+.circle1,.circle2,.circle3,.circle4{
+    width: 20px;
+    height:20px ;
+    border-radius: 50%;
+    display:inline-block;
+    vertical-align: middle;
+
+    
+
+}
+.divspace{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.circle1{
+    background-color: coral;
+
+}
+.circle2{
+    background-color: crimson;
+}
+.circle3{
+    background-color: cyan;
+}
+.circle4{
+    background-color: blue;
+}
+.name{
+    vertical-align: middle;
+}
+    
+hr{
+    width: 60%;
+    margin:30px auto;
+}
+
+.div3{
+    width: 600px;
+    margin:30px auto;
+    font-size: 0;
+
+     
+    border: 1px solid black;
+}
+.container1{
+    width: 180px;
+    height: 100px;
+    background-color: red ;
+    display: inline-block;
+    margin: 10px ;
+    
+
+}
+
+.div4{
+    width: 600px;
+    margin: 30px auto;
+    font-size: 0;
+    border: 1px solid black;
+}
+.container2{
+    display: inline-block;
+    width: 180px;
+    height: 100px;
+    background-color: red ;
+    
+    border: 1px solid black;
+    margin:10px;
+
+}
+.container3{
+    display: inline-block;
+    width: 180px;
+    height: 100px;
+    background-color: red ;
+    
+    border: 1px solid black;
+    margin:10px;
+
+    
+}
+.div5{
+    width: 600px;
+    margin: 30px auto;
+    font-size: 0;
+    border: 1px solid black;
+
+}
+
+.container4{
+    width: 180px;
+    height: 100px;
+    background-color: red ;
+    display: block;
+    margin:10px;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+}
