@@ -1,0 +1,13 @@
+What are the benefits of using a reusable and flexible layout?
+Ans : The benefits of using a reusable modular is that we  can use modular classes again & again.
+The benefits of flexible layout is that we can adjust layout sizes according to screen sizes .
+we can also adjust container & cloumns by using percentages.
+
+How does the percentage unit work in CSS?
+Ans: It works as we assigned a value to the parent element as form of percentage unit.
+
+What is the universal selector?
+Ans :- {*}
+
+What is the use of margin: 0 auto;? explain.
+Ans :It keeps An element in middle.

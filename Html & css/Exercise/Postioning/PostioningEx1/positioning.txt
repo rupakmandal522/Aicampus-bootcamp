@@ -1,0 +1,38 @@
+What are the different ways to position the elements on a page?
+Ans: There are two ways to position the elements on a page are as follows :-
+1. Inline block 
+2.Float 
+
+Which way will you prefer to position the elements in a row and why?
+Ans: I will prefer Float to position the elements in a row because Float helps to position side by side & it removes from the normol flow & postion from left to right & vice versa.
+
+What are different values does float property accepts?
+Ans :- There are three different types of property aceepts i.e Left, Right , & None.
+
+Float makes the element goes out of the flow, how can we fix the problem to get back into the normal flow?
+Ans:-we can fix the problem by using clear property i.e left,right & Both.
+
+
+What are the disadvantages if we use the clearing method to bring the element back to the normal flow?
+Ans :The disvantages if we use the clearing method to bring the element back to the normol flow is child element does not restore origional document flow.
+
+Explain the overflow technique to contain floats as well as disadvantages of it.
+Ans: Overflow technique helps to specifies what should happen if the content overflows of an element box.
+overflow Technique supports differents values :
+-Visible
+-Auto
+-Scroll
+-Hidden
+Its disvantage are as this property confuse users while using it. It is not semantic , sometimes it hides content literally.
+
+Explain the clearfix method. 
+Ans : A clearfix is a way for an element to automatically clear or fix its elements, so that do not need to add additional markup. 
+It is generally used in float layout where elements are floated to be stacked horizontally. 
+
+
+
+.clearfix:after {
+    content:"";
+    display:table;
+    clear:both;
+}
