@@ -42,54 +42,49 @@ table {
 	border-spacing: 0;
 }
 
-body{
-    background-color: #DBEAFE;
+
+
+h1{
+    float: left;
+	font-size: 25px;
+}
+.nav2{
+    float: right;
+	font-size: 25px;
+	margin-right: 25px;
 }
 
 header{
-    height: 50px ;
-    background-color: rgb(24, 91, 153);
-    color: white;
-    
-    
-}
-a{
-    margin-left: 50px;
-}
-.clearfix ::before, .clearfix ::after{
-    content: "";
-    display: table ;
-
-}
-.clearfix ::after{
-    clear : both ;
-}
-header h1{
-    font-size: 20px;
-    float: left;
-}
-nav{
-    float: right;
-    
-}
-.column{
-    width: 30.33% ;
-    height: 400px;
-    
-    background-color: aqua;
-    margin: 1.5% ;
-    float: left ;
+    background-color: #3B82F6;
+	height: 30px;
+	padding: 15px;
 }
 
 .img1{
-    width: 200px ;
-    height : 200px ;
+	width: 300px ;
+	height: 164px; ;
 }
-.img2{
-    width: 200px ; 
-    height: 200px ; 
+
+.column{
+	width: 30.33%;
+	float: left ;
+    margin: 1.5% ;
+	text-align: center;
+	background-color: #F9A8D4;
+
+}
+.clearfix::after {
+	content: "";
+	clear: both;
+	display: table;
 }
 .footer{
-    background-color: rgb(24, 91, 153);
-    height: 50px ;
+    background-color: #3B82F6;
+     padding: 25px;
+	 margin-top: 140px;
+}
+.nav1{
+	text-align: center;
+	font-size: 25px;
+	
 }
