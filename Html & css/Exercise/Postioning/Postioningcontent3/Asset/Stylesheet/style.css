@@ -69,19 +69,24 @@ header{
 	width: 30.33%;
 	float: left ;
     margin: 1.5% ;
+	height: 300px;
 	text-align: center;
 	background-color: #F9A8D4;
 
 }
-.clearfix::after {
+
+.clearfix::after, .clearfix::before {
 	content: "";
-	clear: both;
 	display: table;
 }
+.clearfix::after{
+	clear: both;
+}
+
 .footer{
     background-color: #3B82F6;
      padding: 25px;
-	 margin-top: 140px;
+	 
 }
 .nav1{
 	text-align: center;

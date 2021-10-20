@@ -1,0 +1,7 @@
+.col{
+    position: fixed;
+    background-color: aqua;
+    border: 2px solid blue;
+    height: 200 px;
+    width: 300px;
+}

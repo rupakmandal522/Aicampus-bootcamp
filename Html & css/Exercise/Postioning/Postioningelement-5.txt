@@ -1,0 +1,18 @@
+What are the different ways to uniquely position elements on a page?
+Ans : The different ways to uniquely position on a page are position,realtive,absolute fixed, offset and z-index.
+
+We have a static element, can we position that element with box offset properties?
+Ans : static element has a default value for the position property. it does not follows aceepts offset property .
+ 
+What are different offset properties and why do we use?
+Ans : The different offset properties are left,top,right and bottom. We use because it helps to position the element as per our need base direction.
+
+Suppose we have a span element and we made its position fixed. Can we fix its width and height?
+Ans : yes we cannot fix its height & width if we have an span element and we made its position fixed.
+
+What is the z-index property in CSS? And how does it work?
+Ans : Z- index property in css is a property which allows us to put element in top or bottom as per need. 
+It works as we provide number position number to the element.
+
+To which element we can apply z-index property?
+Ans : We can apply z-index property to relative, absolute & fixed.
