@@ -1,0 +1,27 @@
+
+.box {
+    width: 300px;border: 1px solid green ;
+    margin: 20px;
+}
+
+.div1{
+    background-color: red;
+    padding : 20px ;
+    
+}
+.div2{
+    background-color: black;
+    padding : 20px ;
+}
+.div3{
+   background-color: blue;
+   padding : 20px ;
+}
+.div4{
+    background-color: chartreuse;
+    padding : 20px ;
+}
+.div5{
+    background-color: crimson;
+    padding : 20px ;
+}

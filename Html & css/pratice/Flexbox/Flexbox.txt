@@ -1,0 +1,31 @@
+How does the flexbox model work?
+Ans : flex model works on the principle of making layout more flexible & intutive . For example : Resizing, shrinking , streching  & manymore. 
+
+Which is the important property to use all the flexbox properties and values?
+Ans : display flex is the important property to use all the flexbox properties and valaues.
+ 
+What's the difference between a flexbox container and a flex item?
+Ans: flexbox box container are parent element where as flex item is an child element.
+
+What are flex container properties
+Ans : Flex container properties are as follws: 
+1. Flex-direction
+2. Flex-wrap
+3.Flex-flow
+4. justify-content
+5.Aligned items 
+6.Aligned content
+
+
+What's the difference between flex and inline-flex values?
+Ans : flex is used for child element & Inline-flex values are used for Child as well as Parent element .
+
+Which property is used to change the direction of the axis in the flexbox?
+Ans : Flex-direction property is used to change the direction of the axis in the flexbox.
+
+If the items are overflowing the container then which property should be used to so item automatically starts from the new line?
+Ans: Flex-wrap property should be used so that item automatically starts from the new line.
+
+How can we center(horizontally as well as vertically) any item inside an element?
+Ans : By assigning  command for <item-aligns: center:> for vertically .
+     for horizonatlly <align-content : center> 
