@@ -58,12 +58,39 @@ a{
 .container{
 	max-width: 1080px;
 	margin: 0 auto;
-	padding : 50px 50px 
+	
 }
+
+.box{
+	background-color: #34D399;
+	height: 80px ; 
+	width: 80px ; 
+	border: 5px solid #047857;
+	margin: 2px auto;
+	padding: 2px 0 ; 
+	text-align:center ;
+	line-height: 90px ;
+	border-radius: 5px ; 
+}
+.hero-1{
+	background-color: saddlebrown;
+	border-color: greenyellow;
+}
+.padding {
+	padding : 10px 
+}
+.clearfix::before,.clearfix::after{
+	content: "";
+	display: table;
+}
+.clearfix::after{
+	clear: both; 
+}
+
 
  /* header */
  .header{
-	background-color: aqua;
+	background-color: #60A5FA;
 	padding: 40px 50px; 
 	color: white;
  }
@@ -106,12 +133,28 @@ h2{
 	 font-size: 35px; 
      margin-top: 35px;
 	 font-family: 'Poppins', sans-serif;
+	 margin-bottom: 40px ;
  }
-.box{
-	background-color: palegreen;
-	height: 90px ; 
-	width: 90px ; 
+ .position-box{
+	 border: 2.5px solid #DB2777;
+	 width: 350px ;
+	 text-align: center;
+	 margin: 20px;
+	 
+ }
+
+.box2 .hero-1{
+	float: left ;
 }
+
+.box3 .hero-1{
+	float: right ;
+}
+
+/* Uniquely position Element */
+
+
+  
 
 	
 
