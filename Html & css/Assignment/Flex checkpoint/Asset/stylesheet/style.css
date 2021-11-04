@@ -48,15 +48,14 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-/* General class */
+/* =============================General class========================== */
 a{
 	text-decoration: none;
 }
 .flex{
 	display: flex;
 	justify-content: space-between;
-	flex-wrap: wrap;
-	
+	 flex-wrap: wrap; 
 	
 }
 .container{
@@ -81,7 +80,7 @@ a{
 	border-color: greenyellow;
 }
 .padding {
-	padding : 10px 
+	padding : 60px;
 }
 .clearfix::before,.clearfix::after{
 	content: "";
@@ -92,7 +91,7 @@ a{
 }
 
 
- /* header */
+ /* ===============================header =======================================*/
  .header{
 	background-color: #60A5FA;
 	padding: 40px 50px; 
@@ -128,10 +127,12 @@ h1 a{
 	border-radius: 5px;
 	border: none ;	
 }  
- /*  float section  */
+ /* =======================/ float section/==========================================  */
  .float-section{
 	 background-color: #e7e7e7;
+	 padding: 60px;
  }
+ 
 h2{
 	 text-align: center;
 	 font-size: 27px; 
@@ -140,11 +141,12 @@ h2{
 	 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	 margin-bottom: 40px ;
  }
+ 
  .position-box{
 	 border: 2.5px solid #DB2777;
 	 width: 350px ;
 	 text-align: center;
-	 margin: 20px;
+	 /* margin: 20px; */
 	 
  }
 
@@ -159,45 +161,43 @@ h2{
 /* Uniquely position Element */
 .unique-positioning{
 	background-color: #BFDBFE;
+	padding: 60px ;
 	
 }
+.container-2 {
+	justify-content: space-around;
+	row-gap: 20px;
+}
 
-.box6 #unique-hero{
+.box6 #unique-hero {
 	position: relative;
 	top: 30px;
 	left: 40px ;
 }
-.box7{
+.box7 {
 	position: relative;
 }
-.box7 #hero-unique{
+.box7 #hero-unique {
 	position: absolute;
 	top: 50; 
 	left: 60px;
 	
 }
-
-
-.unique-positioning .scroll-para{
+.unique-positioning .scroll-para {
 	overflow: auto;
 	height: 300px ;
 	width: 350px;
-	overflow-x: hidden;
-	
-	
+	overflow-x: hidden;	
 }
-
-
-.unique-positioning #hero-scroll{
+.unique-positioning #hero-scroll {
 	position: sticky;
-	top: 10px ;
-	
+	top: 10px ;	
 }
-.unique-positioning p{
+.unique-positioning p {
 	font-size: 20px;
 	text-align: justify;
 }
-  
+
 
 	
 
