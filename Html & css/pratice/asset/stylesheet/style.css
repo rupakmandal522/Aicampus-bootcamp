@@ -1,7 +1,22 @@
-.col{
-    position: fixed;
-    background-color: aqua;
-    border: 2px solid blue;
-    height: 200 px;
-    width: 300px;
+.container{
+    display: flex;
 }
+.item{
+    background-color: blue;
+    width: 100px ;
+    height: 100px ;
+    padding: 20px ;
+    margin : 20px ;
+}
+
+
+#item2{
+  order: 5;
+  flex-grow: 5;
+  flex-shrink: 2;
+}
+#item3{
+    order: 5;
+    flex-grow: 5;
+    flex-shrink: 3;
+  }

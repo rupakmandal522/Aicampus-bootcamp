@@ -70,9 +70,9 @@ a{
 	width: 80px ; 
 	border: 5px solid #047857;
 	margin: 2px auto;
-	padding: 2px 0 ; 
-	text-align:center ;
-	line-height: 90px ;
+	/* padding: 5px 0 ;  */
+	text-align: center ;
+	line-height: 80px ;
 	border-radius: 5px ; 
 }
 .hero-1{
@@ -89,6 +89,18 @@ a{
 .clearfix::after{
 	clear: both; 
 }
+
+.item{
+	background-color: #6B7280 ;
+	width: 140px ;
+	height: 140px ;
+	border: 5px solid #111827;
+	text-align: center;
+	line-height: 150px;
+	border-radius: 5px;
+
+}
+
 
 
  /* ===============================header =======================================*/
@@ -129,10 +141,10 @@ h1 a{
 }  
  /* =======================/ float section/==========================================  */
  .float-section{
-	 background-color: #e7e7e7;
+	 background-color: #DBEAFE;
 	 padding: 60px;
  }
- 
+
 h2{
 	 text-align: center;
 	 font-size: 27px; 
@@ -198,9 +210,78 @@ h2{
 	text-align: justify;
 }
 
-
+/* ===============  Positioing With a Flex =============*/
+.Positioning-flex {
+	background-color: #EFF6FF;
+	color: black ;
+	padding: 50px ;
+}
+.box-item {
+	display: flex;
+	flex-direction: column ;
+	align-items: center;
+	row-gap: 3px ;
+	padding: 50px 0;
+	border-bottom: 2px solid #DB2777;		
+}
+.multiple-item {
+	display: flex;
+	flex-direction: row;
+	padding: 100px 0 ;
+	flex-wrap: wrap;
+	row-gap: 3px  ;
+	column-gap: 3px;
+	justify-content: center;
+	border-bottom: 2px solid #DB2777;	
 	
+}	
+.column-items{
+	display: flex;
+	flex-direction: row;
+	padding: 100px 0 ;
+	column-gap: 10px ;
+	border-bottom: 2px solid #DB2777;
+} 
+.Positioning-flex #item3{
+	flex-grow: 2;
+	flex-shrink: 3;
+}
+.justify-content{
+	display: flex;
+    justify-content: space-around;
+	flex-wrap: wrap;
+	align-self: center;
+	padding : 50px  0 ;
+}
+
+.top-nav i{
+	/* line-height: 50px; */
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #d81159;
+    position: fixed;
+    right: -40px;
+    bottom: 110px ; 
+	color: yellow;
+	
+	
+}
 
 
+/* ==============footer ---section========================== */
+.footer{
+	background-color: #60A5FA;
+	padding :40px 50px ;	
+}
+.nav-flex {
+	display: flex;
+	justify-content: center;
+	column-gap: 40px ;	
+}
 
-
+i {
+    font-size: 30px ;
+	color: white;
+	justify-content: space-around;	
+}
