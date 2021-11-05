@@ -2,6 +2,15 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+
+:root{
+	--header-color:#60A5FA;
+	--item-background: #6EE7B7;
+	--item-border:#047857;
+	--hero-background: #F87171;
+	--hero-border: #991B1B ;
+	
+}
 * {
 	box-sizing: border-box;
   }
@@ -49,9 +58,13 @@ table {
 	border-spacing: 0;
 }
 /* =============================General class========================== */
+.body{
+	font-family: 'Poppins', sans-serif;
+}
 a{
 	text-decoration: none;
 }
+
 .flex{
 	display: flex;
 	justify-content: space-between;
@@ -65,10 +78,10 @@ a{
 }
 
 .box{
-	background-color: #34D399;
+	background-color: var(--item-background);
 	height: 80px ; 
 	width: 80px ; 
-	border: 5px solid #047857;
+	border: 5px solid var(--item-border);
 	margin: 2px auto;
 	/* padding: 5px 0 ;  */
 	text-align: center ;
@@ -76,8 +89,8 @@ a{
 	border-radius: 5px ; 
 }
 .hero-1{
-	background-color: saddlebrown;
-	border-color: greenyellow;
+	background-color: var(--hero-background);
+	border-color: var(--hero-border);
 }
 .padding {
 	padding : 60px;
@@ -91,27 +104,31 @@ a{
 }
 
 .item{
-	background-color: #6B7280 ;
+	background-color: var(--item-background) ;
 	width: 140px ;
 	height: 140px ;
-	border: 5px solid #111827;
+	border: 5px solid var(--item-border);
 	text-align: center;
 	line-height: 150px;
 	border-radius: 5px;
-
 }
-
-
+.flex-item {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 100px 0 ;
+	border-bottom: 2px solid #DB2777; 
+}
 
  /* ===============================header =======================================*/
  .header{
-	background-color: #60A5FA;
+	background-color:var(--header-color) ;
 	padding: 40px 50px; 
 	color: white;
  }
  h1{
 	font-size: 40px;
-	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;	
+	font-family:  'Poppins', sans-serif;
+	font-family: bold;
 } 
 h1 a{
 	color: white ;
@@ -128,7 +145,7 @@ h1 a{
 	border-bottom: 2px solid #d81159;
     padding-bottom: 3px;
     color: white;
-}
+} 
 
 .button .btn{
 	background-color: white;
@@ -157,9 +174,7 @@ h2{
  .position-box{
 	 border: 2.5px solid #DB2777;
 	 width: 350px ;
-	 text-align: center;
-	 /* margin: 20px; */
-	 
+	 text-align: center;	 
  }
 
 .box2 .hero-1{
@@ -214,64 +229,57 @@ h2{
 .Positioning-flex {
 	background-color: #EFF6FF;
 	color: black ;
-	padding: 50px ;
+	padding: 50px 0  ;
 }
 .box-item {
-	display: flex;
 	flex-direction: column ;
 	align-items: center;
 	row-gap: 3px ;
-	padding: 50px 0;
-	border-bottom: 2px solid #DB2777;		
+	padding: 50px 0;			
 }
 .multiple-item {
-	display: flex;
-	flex-direction: row;
-	padding: 100px 0 ;
-	flex-wrap: wrap;
 	row-gap: 3px  ;
 	column-gap: 3px;
-	justify-content: center;
-	border-bottom: 2px solid #DB2777;	
-	
+	justify-content: center;			
 }	
-.column-items{
-	display: flex;
-	flex-direction: row;
-	padding: 100px 0 ;
-	column-gap: 10px ;
-	border-bottom: 2px solid #DB2777;
+.column-items {
+	column-gap: 10px ;	
 } 
-.Positioning-flex #item3{
-	flex-grow: 2;
-	flex-shrink: 3;
+.Positioning-flex #item3 {
+	flex-grow: 1;
+	flex-shrink: 2;
 }
-.justify-content{
-	display: flex;
-    justify-content: space-around;
+.justify-content {
+	display :flex ;
 	flex-wrap: wrap;
-	align-self: center;
-	padding : 50px  0 ;
+	justify-content: space-around;
+	gap: 50px ;
+	padding : 100px  0 ;
 }
 
-.top-nav i{
-	/* line-height: 50px; */
-    width: 100px;
+/* Top----------- to -----------bottom  */
+
+.top-nav a {
+	background-color: white;
+	line-height: 40px;
+    width: 90px;
     height: 40px;
-    border-radius: 5px;
+    border-radius: 20px;
     background-color: #d81159;
     position: fixed;
     right: -40px;
     bottom: 110px ; 
-	color: yellow;
-	
-	
+}
+.top-nav i {
+       font-size: 15px; 
+	    padding-left: 20px; 
+		text-align: center;
 }
 
 
-/* ==============footer ---section========================== */
-.footer{
-	background-color: #60A5FA;
+/* =============#=footer--section==#======================== */
+.footer {
+	background-color: var(--header-color);
 	padding :40px 50px ;	
 }
 .nav-flex {
