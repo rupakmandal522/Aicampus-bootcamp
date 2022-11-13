@@ -39,8 +39,8 @@ To login User has to enter their Phone number and password to log into the websi
 
 ##### Homepage : 
 
-<img width="913" alt="fifty" src="[https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG]>
-<img width="913" alt="fifty" src="[[https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG]()(https://user-images.githubusercontent.com/86112788/201525425-0ffc82c7-a51b-4bae-8df6-c49d7f4a4f47.PNG)">
+<img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525425-0ffc82c7-a51b-4bae-8df6-c49d7f4a4f47.PNG">
+
 
 ##### : 
 
