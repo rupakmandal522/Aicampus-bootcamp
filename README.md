@@ -35,12 +35,13 @@ https://drive.google.com/file/d/1IUq53wdJcP01lM1IM9ITQ0ONgxCRunhO/view
 ##### login page:
 To login User has to enter their Phone number and password to log into the website.
 
-https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG
 <img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG">
 
 ##### Homepage : 
-https://user-images.githubusercontent.com/86112788/201525387-72b38f80-79aa-4738-8fd0-e436fabfd231.PNG)
-https://user-images.githubusercontent.com/86112788/201525425-0ffc82c7-a51b-4bae-8df6-c49d7f4a4f47.PNG
+
+<img width="913" alt="fifty" src="[https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG]>
+<img width="913" alt="fifty" src="[[https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG]()(https://user-images.githubusercontent.com/86112788/201525425-0ffc82c7-a51b-4bae-8df6-c49d7f4a4f47.PNG)">
+
 ##### : 
 
 
