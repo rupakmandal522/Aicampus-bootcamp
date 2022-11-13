@@ -38,46 +38,20 @@ To login User has to enter their Phone number and password to log into the websi
 <img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525257-b6ea0829-1861-4c48-bf24-6c65fa51a056.PNG">
 
 ##### Homepage : 
-
-<img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525425-0ffc82c7-a51b-4bae-8df6-c49d7f4a4f47.PNG">
-
-
-##### : 
+<img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525927-fd99c566-1e52-43f0-b948-50f27f912852.PNG">
 
 
 
+##### Fitnees page : 
+<img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525959-504c8c5a-32a9-4400-bad3-4c74d94b3362.PNG">
 
-# Authors
+##### Mind Page :
+<img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201525983-8367c214-bf4b-4809-ad06-183fa3283ec0.PNG">
 
-###  :girl:
->  [Linkedin]() 
-    
->  [GitHub]()
+##### Store page :
+<img width="913" alt="fifty" src="https://user-images.githubusercontent.com/86112788/201526007-b6e9bfdd-2c38-4c97-890a-29bbf226a121.PNG">
 
-### :boy:
->  [Linkedin]()
 
->  [GitHub](/)
-
-### :boy:
->  [Linkedin]()
-
->  [GitHub]()
-
-### Mahesh Vaitla:boy:
->  [Linkedin]()
-
->  [GitHub]()
-
-###:boy:
->  [Linkedin]()
-
->  [GitHub]()
-
-### :boy:
->  [Linkedin]()
-
->  [GitHub]()
 
 
 
